@@ -3,6 +3,8 @@ Miner,Coin,Chain,SO SO SO FUN!
 
 Now
 
+内测仅支持安卓手机，正式版本支持苹果手机
+
 此游戏处于内测阶段，故请下载 GGCsandbox it: https://github.com/GGCDevMaster/GGCsandbox
 
 然后 访问 http://ggc-tradegate.ggcv.red:8088/buddyman-debug.apk
