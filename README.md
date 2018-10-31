@@ -5,7 +5,9 @@ Now
 
 此游戏处于内测阶段，故请下载 GGCsandbox
 
-然后 安装游戏
+然后 访问 http://ggc-tradegate.ggcv.red:8088/buddyman-debug.apk
+
+安装游戏
 
 游戏需要使用 GGC 国际点卡 / 国际社区开发卡包
 
