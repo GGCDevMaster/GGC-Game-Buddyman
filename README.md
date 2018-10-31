@@ -1,4 +1,4 @@
-# GGC-Game-Buddyman-
+# GGC-Game-Buddyman
 Miner,Coin,Chain,SO SO SO FUN!
 
 Now
